@@ -1,2 +1,21 @@
 
 /* Your CSS Code here. */
+ .container{
+        border: 1px solid black;
+        width: 30%;
+        padding: 20px;
+        background-color: antiquewhite;
+    }
+      .moviePic img{
+        height: 30%;
+        width: 75%;
+        opacity: 0.6;
+      }
+      .movieDetail {
+        position: relative;
+        top: 12px;
+        text-align: center;
+        font-size: 20px;
+        text-align: justify;
+        width: 100%;
+      }
